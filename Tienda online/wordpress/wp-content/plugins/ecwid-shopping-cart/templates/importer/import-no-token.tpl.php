@@ -1,1 +1,0 @@
-<a class="button button-primary" id="reconnect-button" href="admin.php?page=<?php echo self::PAGE_SLUG_WOO; ?>&action=reconnect"><?php _e( 'Connect', 'ecwid-shopping-cart' ); ?></a>
